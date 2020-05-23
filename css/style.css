@@ -1,0 +1,53 @@
+body{
+    background: gray;
+    color: white;
+    font-family: sans-serif;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+h1 {
+    color: darkgreen;
+    font-family: Arial;
+    font-size: 28px;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+    font-family: Helvetica;
+}
+
+p {
+    font-size: 14px;
+}
+
+header {
+    margin-top: 80px;
+}
+
+footer{
+    margin-bottom: 40px;
+}
+
+a:link, a:visited{
+    color:gold;
+}
+
+a:hover{
+    color: yellow;
+}
+
+a:active{
+    color:red;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.img_pequeno{
+    margin-right: 20px;
+    width: 30px;
+}
